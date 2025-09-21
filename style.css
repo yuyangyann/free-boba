@@ -1,0 +1,35 @@
+.boba{
+    width: 300px; 
+}
+.brownsugar{
+    width: 334px;
+    position: relative; 
+    left: 47px;
+    top: 30px;
+}
+.strawberry{
+    width: 250px;
+    position: relative; 
+    left: 94px;
+    top: 30px;
+}
+.taro{
+    width: 250px;
+    position: relative; 
+    left: 141px;
+    top: 30px;
+}
+.centered{
+    text-align: center;
+}
+.creme{
+    width: 250px;
+    position: relative;
+    left: 188px;
+    top: 30px;
+}
+body {
+    font-family: 'verdana';
+    background: linear-gradient(0deg, rgba(255, 236, 232, 0.85), rgb(239, 235, 225, 0.85)), url(https://i.pinimg.com/1200x/29/7b/cb/297bcb6f64e72f585055efcefe8740ab.jpg);
+    color: black
+}
